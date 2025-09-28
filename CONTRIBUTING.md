@@ -57,7 +57,7 @@ pull request so it can be tracked. Select the **Bug Report** template in creatin
 
 ### PR review
 
-If you decide to submit a PR that addresses a new feature and/or a bug, for which a corresponding issue has already been submitted, work on your forked version of the repo and after additions/modifications of code in your fork, submit a PR, mentioning what issue it addresses and other optional information that facilitates the review process. At this point, the maintainers of the repo will assign one or more reviwers to your PR.
+If you decide to submit a PR that addresses a new feature and/or a bug, for which a corresponding issue has already been submitted, work on your forked version of the repo and after additions/modifications of code in your fork, submit a PR, mentioning what issue it addresses and other optional information that facilitates the review process. At this point, the maintainers of the repo will assign one or more reviwers to your PR. 
 
 
 ### Merge approval
